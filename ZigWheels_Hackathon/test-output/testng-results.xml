@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-06T14:32:46 IST" name="Suite" finished-at="2024-11-06T14:33:58 IST" duration-ms="72554">
+    <groups>
+    </groups>
+    <test started-at="2024-11-06T14:32:46 IST" name="Test" finished-at="2024-11-06T14:33:58 IST" duration-ms="72554">
+      <class name="ExtentReportTest.ExtentAllTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:ExtentReportTest.ExtentAllTestCases@4397ad89]" started-at="2024-11-06T14:32:46 IST" name="setup" finished-at="2024-11-06T14:32:52 IST" duration-ms="6215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="upComingHondaBikes()[pri:0, instance:ExtentReportTest.ExtentAllTestCases@4397ad89]" started-at="2024-11-06T14:32:52 IST" name="upComingHondaBikes" finished-at="2024-11-06T14:33:18 IST" duration-ms="26357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upComingHondaBikes -->
+        <test-method signature="usedCars()[pri:1, instance:ExtentReportTest.ExtentAllTestCases@4397ad89]" started-at="2024-11-06T14:33:18 IST" name="usedCars" finished-at="2024-11-06T14:33:34 IST" duration-ms="15168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usedCars -->
+        <test-method signature="signUp()[pri:2, instance:ExtentReportTest.ExtentAllTestCases@4397ad89]" started-at="2024-11-06T14:33:34 IST" name="signUp" finished-at="2024-11-06T14:33:53 IST" duration-ms="19257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:ExtentReportTest.ExtentAllTestCases@4397ad89]" started-at="2024-11-06T14:33:53 IST" name="closeDriver" finished-at="2024-11-06T14:33:58 IST" duration-ms="5486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- ExtentReportTest.ExtentAllTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
